@@ -16,9 +16,9 @@
 
     <repositories>
         <repository>
-            <id>megan-mirror</id>
-            <name>Megan Mirror Repository</name>
-            <url>https://hub.megan.ir/maven</url>
+            <id>local-maven-mirror</id>
+            <name>Runflare Mirror Repository</name>
+            <url>https://mirror-maven.runflare.com/maven2</url>
         </repository>
     </repositories>
 
